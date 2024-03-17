@@ -15,6 +15,8 @@ Key Features:
 Bitcoin Puzzle Solving Machine is intended for educational and research purposes only. Any unlawful use of this software is strictly prohibited. By using this software, you acknowledge and agree to comply with all applicable laws and regulations.
 
 
+DONATE
+
         AUTHOR : Mustafa AKBAL e-mail: mstf.akbal@gmail.com 
         Telegram: @chawresho   Instagram: mstf.akbal
          ================= DONATE ADDRESSES ========================
