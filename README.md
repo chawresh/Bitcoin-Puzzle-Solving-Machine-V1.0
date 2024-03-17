@@ -1,3 +1,8 @@
+Bitcoin Puzzle Solving Machine V1.0
+
+
+![Alt text](https://github.com/chawresh/Bitcoin-Puzzle-Solving-Machine-V1.0/blob/cd28e9d5c1d095e39bdad9eaf6c7c924c3207045/puzzlescreenshot.png)
+
 
 Bitcoin Puzzle Solving Machine is a Python program designed to solve Bitcoin puzzles by generating random private keys and checking their corresponding Bitcoin addresses for any balance. This program utilizes the Blockchain.info API to check the balance of Bitcoin addresses and records relevant information when a balance is found.
 
